@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": -0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "\"i feel bad for students that already bought their flight tickets, rumah sewa, hostel and so on."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 97,
+        "content": "you have no idea so… https://t.co/kb7zQ8QzAV\""
+      }
+    }
+  ]
+}

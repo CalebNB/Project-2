@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "\"Considering how much the Khan’s hate bad press, this has not been a good week."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      },
+      "text": {
+        "beginOffset": 82,
+        "content": "Premier League status brings with it… https://t.co/iJnaqCKuPU\""
+      }
+    }
+  ]
+}

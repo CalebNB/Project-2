@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "@Beckyhooper23 I had one bad experience when they flew us to the wrong island and we lost a day's holiday."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 108,
+        "content": "They de… https://t.co/nE4qVH6rFI"
+      }
+    }
+  ]
+}

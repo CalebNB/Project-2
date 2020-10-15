@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "I ain't talking bad about trump on no social media and when I jump on the flight they put me in the lil room"
+      }
+    }
+  ]
+}

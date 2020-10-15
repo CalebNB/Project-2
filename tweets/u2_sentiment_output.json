@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "i feel stupid for always panicking over flight tickets everytime i have to go back to uni cuz i was afraid it would…"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      },
+      "text": {
+        "beginOffset": 119,
+        "content": "https://t.co/qnmUp0UtwL"
+      }
+    }
+  ]
+}
